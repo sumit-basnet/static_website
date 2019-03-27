@@ -1,0 +1,17 @@
+@charset "utf-8";
+.head {
+	float: left;
+	height: 150px;
+	width: 768px;
+	margin-left: 200px;
+	background-color: #66CCFF;
+}
+.body {
+	float: left;
+	height: 1000px;
+	width: 768px;
+	margin-left: 200px;
+	background-color: #66CCFF;
+	margin-top:5px;
+}
+

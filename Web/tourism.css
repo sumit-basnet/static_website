@@ -1,0 +1,48 @@
+.head {
+	float: left;
+	height: 150px;
+	width: 768px;
+	margin-left: 200px;
+	background-image: url(img/head.jpg);
+}
+
+.body {
+	float: left;
+	height: 478px;
+	width: 610px;
+	margin-left: 200px;
+	margin-top:0px;
+	
+}
+.sign {
+	background-color: #6CF;
+	float: left;
+	height: 360px;
+	width: 155px;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+.follow {
+	background-color: #6CF;
+	float: left;
+	height: 110px;
+	width: 150px;
+	margin-top: 360px;
+	margin-left: -160px;
+}
+.gallery {
+	background-color: #6CF;
+	float: left;
+	height: 161px;
+	width: 768px;
+	margin-top: 0px;
+	margin-left: 200px;
+	
+}
+.footer {
+	float: left;
+	height: 106px;
+	width: 768px;
+	margin-left: 200px;
+	background-image: url(img/11.jpg);
+}
